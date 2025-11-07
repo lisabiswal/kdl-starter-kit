@@ -71,32 +71,32 @@ function Footer() {
               <h3 className="text-lg font-semibold mb-4 uppercase">Services</h3>
               <ul className="space-y-2 text-gray-300 text-sm">
                 <li>
-                  <Link href="/mobile-app-development" className="hover:text-blue-400 transition-colors">
+                  <Link href="/services/mobile-app-development" className="hover:text-blue-400 transition-colors">
                     Mobile App Development
                   </Link>
                 </li>
                 <li>
-                  <Link href="/web-app-development" className="hover:text-blue-400 transition-colors">
-                  Web App Development
-                </Link>
+                  <Link href="/services/web-app-development" className="hover:text-blue-400 transition-colors">
+                    Web App Development
+                  </Link>
                 </li>
                 <li>
-                  <Link href="/digital-marketing" className="hover:text-blue-400 transition-colors">
-                  Digital Marketing
-                </Link>
+                  <Link href="/services/digital-marketing" className="hover:text-blue-400 transition-colors">
+                    Digital Marketing
+                  </Link>
                 </li>
                 <li>
-                  <Link href="/graphic-design" className="hover:text-blue-400 transition-colors">
+                  <Link href="/services/graphic-design" className="hover:text-blue-400 transition-colors">
                     Graphic Designing
                   </Link>
                 </li>
                 <li>
-                  <Link href="/ui-ux-design" className="hover:text-blue-400 transition-colors">
+                  <Link href="/services/ui-ux-design" className="hover:text-blue-400 transition-colors">
                     UI/UX Designing
                   </Link>
                 </li>
                 <li>
-                  <Link href="/business-solutions" className="hover:text-blue-400 transition-colors">
+                  <Link href="/services/business-solutions" className="hover:text-blue-400 transition-colors">
                     Business Solutions
                   </Link>
                 </li>
